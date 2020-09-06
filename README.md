@@ -1,2 +1,2 @@
 # Sorting-Algorithms-Visualizer
-A webpage which visualize 6 different Algorithms.
+A webpage which visualizes 6 different Algorithms.
